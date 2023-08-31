@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franjisco-1&label=Profile%20views&color=0e75b6&style=flat" alt="franjisco-1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frajisco-1&label=Profile%20views&color=0e75b6&style=flat" alt="frajisco-1" /> </p>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:552/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 <h3 align="left">Connect with me:</h3>
