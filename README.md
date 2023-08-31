@@ -8,6 +8,6 @@
 <a href="https://www.hackerearth.com/trcf yzomous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="trcf yzomous" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franjisco-1&show_icons=true&locale=en" alt="franjisco-1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franjisco-1&show_icons=true&locale=en" alt="frajisco-1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franjisco-1&" alt="franjisco-1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frajisco-1&" alt="frajisco-1" /></p>
